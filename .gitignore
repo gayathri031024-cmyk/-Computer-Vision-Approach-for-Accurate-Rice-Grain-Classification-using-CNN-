@@ -1,0 +1,5 @@
+rice-image-dataset/
+rice-image-dataset.zip
+*.h5
+*.keras
+.vscode/
